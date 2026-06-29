@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0185/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 始興記郡東有王山草木滋茂衆石澄徹秦桂陽縣閣下鼓自奔逸於臨武因名聖鼓今臨武有聖鼓城也
+  hash: sha256:c47a3eec472caf4d9d5a96c4f86be676c166af834cbc6da88377a4fb572b3fd9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0185_CHANT_001-1a.1-h}
+metadata:
+  title: 始興記
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0185.xml
+hash: sha256:aebf7402f4eaddc9612e8697afb37a7df7f3d5715eb3fbba1d1e97318ac2479c
